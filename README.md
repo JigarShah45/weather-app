@@ -52,16 +52,6 @@ A simple weather application built using **HTML**, **CSS**, and **JavaScript** t
 2. Go to your dashboard and generate an API key.
 3. Use that key in your `script.js` file.
 
-## 🖼️ Folder Structure
-
-```
-weather-app/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-```
 
 ## 👨‍💻 Author
 
