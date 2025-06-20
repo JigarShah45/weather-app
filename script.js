@@ -13,7 +13,7 @@ btn.addEventListener('click',()=>{
 function getWeather(city){
     console.log(city);
 
-    fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=5319dedd97ba4e8adba1c1a46cd91336`)
+    fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=your_apiid`)
     .then(response=>response.json())
     .then(data => {
         console.log(data);
