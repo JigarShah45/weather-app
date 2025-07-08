@@ -5,12 +5,6 @@ A simple weather application built using **HTML**, **CSS**, and **JavaScript** t
 
 ---
 
-## 🔗 Visit My Project
-
-🌐 **Live Demo**: [Click Here to Open 🚀]( https://jigarshah45.github.io/weather-app/)
-
----
-
 ## 🚀 Features
 
 - Search weather by city name
